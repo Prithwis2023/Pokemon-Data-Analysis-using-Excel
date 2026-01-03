@@ -43,5 +43,5 @@ How many Pokémon have both HP > 100 and Attack > 120?
 Rank all Pokémon by Total stat and find the top 20.
 
 
-![image alt] (https://github.com/Prithwis2023/Pokemon-Data-Analysis-using-Excel/blob/129642c7c497a96df3a5a5bf1f09f082d37d9425/Pokemon%20Data%20Dashboard.png)
+![image alt](https://github.com/Prithwis2023/Pokemon-Data-Analysis-using-Excel/blob/129642c7c497a96df3a5a5bf1f09f082d37d9425/Pokemon%20Data%20Dashboard.png)
 
