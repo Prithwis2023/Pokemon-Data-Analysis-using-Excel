@@ -1,7 +1,5 @@
 # Pokemon-Data-Analysis-using-Excel
 
-Dataset - []
-
 #### Questions -
 
 How many Pokémon are there in total?
